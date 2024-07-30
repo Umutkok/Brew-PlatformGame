@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AnimasyonChange : MonoBehaviour
+public class AnimationChange : MonoBehaviour
 {
     public Animator animator;
     public AnimationClip baloncukdusmeanim;
